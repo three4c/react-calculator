@@ -13,6 +13,7 @@ class App extends Component {
     const { calculator, actions } = this.props;
     console.log(calculator);
     console.log(actions);
+
     return (
       <div>
         <div className="result">

@@ -1,5 +1,5 @@
   #root {
-    background: #000;
+    background: #111;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -27,6 +27,7 @@
     font-size: 6.4rem;
     font-weight: 700;
     text-align: right;
+    overflow: hidden;
   }
   }
 
